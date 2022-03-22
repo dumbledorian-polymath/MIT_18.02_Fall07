@@ -14,6 +14,6 @@ For others, [here](https://calendar.google.com/calendar/ical/iojq8jmjfrhilar018b
 
 ### Upcoming
 
-1. __Tuesday, March 22, 2022__: Lectures 1 and 2 (Vectors and Dot Products). 
+1. __Tuesday, March 22, 2022__: Vectors, Dot Products and Applications, Determinant, Cross Product 
 
  
