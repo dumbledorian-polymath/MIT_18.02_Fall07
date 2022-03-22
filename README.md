@@ -12,8 +12,6 @@ If you use Google Calendar, click [here](https://calendar.google.com/calendar/em
 
 For others, [here](https://calendar.google.com/calendar/ical/iojq8jmjfrhilar018b52q12fk%40group.calendar.google.com/public/basic.ics) is the address in iCal format.
 
-<iframe src="https://calendar.google.com/calendar/embed?src=iojq8jmjfrhilar018b52q12fk%40group.calendar.google.com&ctz=America%2FDetroit" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
 ### Upcoming
 
 1. __Tuesday, March 22, 2022__: Lectures 1 and 2 (Vectors and Dot Products). 
